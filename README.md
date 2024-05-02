@@ -1,4 +1,4 @@
-# Browser and Node.js analytics for Snowplow
+# Browser and Node.js analytics
 
 [![actively-maintained]][tracker-classificiation]
 [![Release][release-image]][releases]
